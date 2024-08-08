@@ -1,7 +1,7 @@
-num = int(input("Digite um número inteiro positivo: "))
 soma = 0
 quant = 0
 maior = 0
+num = int(input("Digite um número inteiro positivo: "))
 while num > 0:
   soma += num
   quant += 1
