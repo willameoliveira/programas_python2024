@@ -1,7 +1,7 @@
 #questão 3 cap IV
 soma = 0
 menor_preco = 0
-mais_barato = None
+mais_barato = None #inicializa o nome do mais barato com 'nada'
 for cont in range(5):
   nome = input("Nome do medicamento: ")
   preco = float(input("Informe o valor: "))
