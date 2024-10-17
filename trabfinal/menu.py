@@ -1,4 +1,5 @@
-import os, produto
+import os
+from produtos import produto
 
 os.system("clear")
 while True:
